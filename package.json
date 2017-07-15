@@ -1,0 +1,24 @@
+{
+  "name": "plan_s",
+  "version": "1.0.0",
+  "description": "PlanS是一个关于游戏的计划",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchaoduo/PlanS.git"
+  },
+  "author": "Magin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangchaoduo/PlanS/issues"
+  },
+  "homepage": "https://github.com/wangchaoduo/PlanS#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "request": "^2.81.0"
+  }
+}
